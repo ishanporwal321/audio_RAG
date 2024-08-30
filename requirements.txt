@@ -8,4 +8,4 @@ langchain-chroma
 python-dotenv
 streamlit_mic_recorder
 streamlit_chat
-sqlite3==3.35.0
+sqlite3
