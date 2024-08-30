@@ -7,3 +7,4 @@ langchain-huggingface
 langchain-chroma
 python-dotenv
 streamlit_mic_recorder
+streamlit_chat
