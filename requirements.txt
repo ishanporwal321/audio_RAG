@@ -6,3 +6,4 @@ sentence_transformers
 langchain-huggingface
 langchain-chroma
 python-dotenv
+streamlit_mic_recorder
